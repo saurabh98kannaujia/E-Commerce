@@ -1,0 +1,58 @@
+const conatantData = {
+    categoryList : [
+        "All Categories",
+        "Milks & Dairies",
+        "Wines & Drinks",
+        "Clothing & Beauty",
+        "Fresh Seafood",
+        "Pet Foods & Toy",
+        "Fast Food",
+        "Baking Material",
+        "Vegetables",
+        "Fresh Fruit",
+        "Bread & Juice",
+        "Milks and Dairies"
+    ],
+    stateList : [
+        "Your Location",
+        "Andhra Pradesh",
+        "Arunachal Pradesh",
+        "Assam",
+        "Bihar",
+        "Chhattisgarh",
+        "Goa",
+        "Gujarat",
+        "Haryana",
+        "Himachal Pradesh",
+        "Jammu and Kashmir",
+        "Jharkhand",
+        "Karnataka",
+        "Kerala",
+        "Madhya Pradesh",
+        "Maharashtra",
+        "Manipur",
+        "Meghalaya",
+        "Mizoram",
+        "Nagaland",
+        "Odisha",
+        "Punjab",
+        "Rajasthan",
+        "Sikkim",
+        "Tamil Nadu",
+        "Telangana",
+        "Tripura",
+        "Uttarakhand",
+        "Uttar Pradesh",
+        "West Bengal",
+        "Andaman and Nicobar Islands",
+        "Chandigarh",
+        "Dadra and Nagar Haveli",
+        "Daman and Diu",
+        "Delhi",
+        "Lakshadweep",
+        "Puducherry"
+    ]
+} 
+
+
+export default conatantData
